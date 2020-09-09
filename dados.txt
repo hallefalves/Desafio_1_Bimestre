@@ -1,0 +1,5 @@
+1|Chapéu|01/01/2000|Moscow|Marisa|De palha|G|Amarelo|800.0|700.0|1600.0|3000.0
+2|Saia|05/08/1999|Edimburgo|Gucci|Xadrez|P|Roxo|500.0|490.0|1000.0|2000.0
+3|Vestido|04/09/2018|Madrid|Zara|Longo|M|Vermelho|800.0|700.0|1600.0|3000.0
+4|Lenço|09/09/2020|São Luiz|Lojas Irene|Lenço de cetim|M|Rosa|5.9|3.75|11.8|7.9
+5|Casaco|15/08/2020|Paris|Garota Francesa|Casoco de pelo fofo falso comprimento midi|GG|Amarelo|200.0|175.0|400.0|399.99
